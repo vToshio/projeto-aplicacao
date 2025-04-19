@@ -1,0 +1,17 @@
+nav {
+    background-color: #5dade2;
+}
+
+nav a:hover {
+    font-weight: bold;
+}
+
+footer {
+    background-color:  #1b2631;
+    color: #fff;
+}
+
+#imagem_calculadora {
+    background-image: url('/static/images/water_dripping.jpg');
+    background-position: center center;
+}
